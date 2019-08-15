@@ -1,5 +1,5 @@
 # WeatherMeister
-An web application supporting query and display live weather data
+An web application supporting query and display of live weather data
 
 ## Usage
 This project is based on Java EE and MySQL.<br/>
